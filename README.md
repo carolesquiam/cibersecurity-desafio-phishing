@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![teste kali](https://github.com/user-attachments/assets/e0ece380-1be8-490f-85ff-916a1bc61511)
